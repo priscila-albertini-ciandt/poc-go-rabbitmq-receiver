@@ -1,4 +1,4 @@
-# Poc Go RabbitMQ Publisher
+# Poc Go RabbitMQ Receiver
 
 Para importar RabbitMQ no projeto
 ```
